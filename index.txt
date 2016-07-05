@@ -1,6 +1,7 @@
 1. <!-- ashanrupasinghe lines-->
 2. ashan rupasinghe first line
 3. ashan rupasinghe 2nd line
+Final line of V 1.0
 4. <!-- ashangithub lines-->
 5. ashan github first line
 6.ashan git hub second line
